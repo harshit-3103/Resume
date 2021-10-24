@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Abhishek Shah",
+    "description":"I am a FULL STACK development engineer and I use MERN & Next.js to develop pages.Also Develope Androids App in React Native ",
+    "image":"https://storage.googleapis.com/myworktillnow/resume/pic.jpg",
+    "bio":"Having been a student, I constantly explore various disciplines to broaden my technical skill. My current areas of interest and exploration are machine learning & AI. I begin projects by thoroughly researching and then developing my ideas through creative thinking",
+    "contactmessage":"I am always excited to work on some awesome projects, message me and let's discuss over Tea",
+    "email": "abhishekshah4010@gmail.com",
+    "phone": "8076367467",
+    "github":"https://github.com/ABHISHEKSHAH56",
+    
+    "project":"/#portfolio",
+    "address":{
+      "state":"Delhi",
+      "country":"INDIA",
+      "zip": "110005"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://storage.googleapis.com/myworktillnow/resume/ResumeAbhishekShah.pdf",
+    "social":[
+      
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/im_Abhishekshah",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/iamabhishekshah/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/im_abhishekshah/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ABHISHEKSHAH56",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Indian Institute of Information Technology Kalyani",
+        "degree":"B.Tech ",
+        "graduated":"2019-2023",
+        "course":"Computer Science Engineering"
+        
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"CYBERXPOLER",
+        "title":"FULL-STACK Developer Intern ",
+        "years":"May - July 2021",
+        "description":[
+          "Developed landing pages, dashboards, and authentication using React.js scripting",
+          "Developed complete Authentication using Access and Refers token (JsonWebToken)",
+          "Planned and engineered RESTFUL API for web   services to manipulate dynamic datasets ",
+          "Wrote production-ready code with fluency in modern front-end and back-end frameworks using MERN"
+        ]
+      }
+    ],
+    "skills":[
+      {
+        "name":"React JS",
+        "level":"90%"
+      },
+      {
+        "name":"React native ",
+        "level":"70%"
+      },
+      {
+        "name":"Next Js ",
+        "level":"50%"
+      },
+      {
+        "name":"Node js",
+        "level":"80%"
+      },
+      {
+        "name":"MERN",
+        "level":"80%"
+      },
+      {
+        "name":"C/C++",
+        "level":"100%"
+      },
+      {
+        "name":"Data Structure & Algorithims",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Navyuvak Chhath Pooja ",        
+        "image":"https://storage.googleapis.com/www.navyuvakchhathpooja.com/img/gallery/1.jpg",
+        "url":"https://www.navyuvakchhathpooja.com/"
+
+      },
+      {
+        "title":"Know Your College",        
+        "image":"https://storage.googleapis.com/myworktillnow/du/du-1.png",
+        "url":"https://abhishekshah.netlify.app/"
+      },
+      {
+        "title":"QR-Generater",        
+        "image":"https://storage.googleapis.com/myworktillnow/qr-baba/qr-baba-1.png",
+        "url":"https://qrbaba.netlify.app/"
+
+      },{
+        "title":"ShahBasket-Android App",        
+        "image":"https://s3.envato.com/files/257121619/IMG_4231-1.jpg",
+        "url":"https://github.com/ABHISHEKSHAH56/shahbasketclient"
+
+      },
+      
+      {
+        "title":"Landing Page ",        
+        "image":"https://storage.googleapis.com/myworktillnow/landing/web-landing-1.png",
+        "url":"https://github.com/ABHISHEKSHAH56/E-commerce-Cart"
+
+      },     
+      {
+        "title":"Blog",        
+        "image":"https://storage.googleapis.com/myworktillnow/blog/blog-1.png",
+        "url":"https://boostyourknowledge.herokuapp.com/"
+
+      },      
+      {
+        "title":"Covid-Dashboard",        
+        "image":"https://www.zohowebstatic.com/sites/default/files/covid/covid-dashboard.jpg",
+        "url":"https://abhishekcovidapp.herokuapp.com/"
+
+      }    
+      
+      
+            
+      
+
+    ]
+  }
+}

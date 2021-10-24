@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import Fade from "react-reveal";
-import { Link } from "react-router-dom";
 
 class About extends Component {
   render() {
@@ -9,8 +8,6 @@ class About extends Component {
     const name = this.props.data.name;
     const profilepic = this.props.data.image;
     const bio = this.props.data.bio;
-    const street = this.props.data.address.street;
-    const city = this.props.data.address.city;
     const state = this.props.data.address.state;
     const zip = this.props.data.address.zip;
     const phone = this.props.data.phone;
@@ -51,7 +48,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                  <a href={`${resumeDownload}`} className="button" target="_blank" download>
+                  <a href={`${resumeDownload}`} className="button"  download>
                   <i className="fa fa-download"></i>Download Resume
                   </a>
                     
